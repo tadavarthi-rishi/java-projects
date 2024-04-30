@@ -25,6 +25,23 @@ public class student {
 
     }
 
+    public int getId() {
+        return id;
+    }
 
+    public String getName() {
+        return name;
+    }
 
+    public int getGrade() {
+        return grade;
+    }
+
+    public int getFeespaid() {
+        return feespaid;
+    }
+
+    public int getFeestotal() {
+        return feestotal;
+    }
 }
